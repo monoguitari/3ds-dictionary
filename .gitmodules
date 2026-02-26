@@ -1,0 +1,3 @@
+[submodule "libs/CTRPluginFramework"]
+	path = libs/CTRPluginFramework
+	url = git@gitlab.com:thepixellizeross/ctrpluginframework.git
